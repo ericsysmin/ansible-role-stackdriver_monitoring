@@ -1,4 +1,4 @@
-# stackdriver_logging
+# ericsysmin.stackdriver_logging
 
 Ansible role to install the Stackdriver Logging Agent.
 
