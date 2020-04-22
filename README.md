@@ -47,7 +47,7 @@ complete the following steps
 - hosts: localhost
   become: yes
   roles:
-    - role: stackdriver_logging
+    - role: ericsysmin.stackdriver_logging
 ```
 
 ## License
@@ -56,4 +56,4 @@ Apache 2.0
 
 ## Author Information
 
-Eric Anderson
+[Eric Anderson](https://ericsysmin.com)
